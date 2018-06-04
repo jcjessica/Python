@@ -1,2 +1,2 @@
 # Python
-simple python written in python 3.6.5
+ written in python 3.6.5
